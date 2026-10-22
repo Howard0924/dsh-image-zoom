@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Image Zoom Preview",
+    "description": "Adds trackpad pinch zoom and two-finger scroll panning to conversation image previews, up to 8x; Esc resets, then closes."
+  }
+}
