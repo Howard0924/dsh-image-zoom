@@ -4,6 +4,11 @@
   "description": "Trackpad pinch zoom and native scroll panning for DSH conversation image previews, with crisp SVG scaling.",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Howard0924/dsh-image-zoom.git"
+  },
+  "homepage": "https://github.com/Howard0924/dsh-image-zoom#readme",
   "keywords": [
     "deepseek-harness",
     "dsh",
